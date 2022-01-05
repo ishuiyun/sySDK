@@ -4,7 +4,7 @@ plugins {
 }
 //apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.mokercode'
+group='com.github.ishuiyun'
 apply plugin: 'com.kezong.fat-aar'
 
 android {
